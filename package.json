@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tweenjs/tween.js": "^23.1.2",
     "three": "^0.166.1",
     "vue": "^3.4.29"
   },
