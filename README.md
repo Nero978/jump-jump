@@ -1,6 +1,6 @@
 # jump-jump
 
-This template should help get you started developing with Vue 3 in Vite.
+Three.js + Vue3 微信跳一跳小游戏
 
 ## Recommended IDE Setup
 
